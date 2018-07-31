@@ -1,9 +1,3 @@
-/*
- * Fleet.cpp
- *
- *  Created on: Nov 4, 2011
- *      Author: per
- */
 
 #include "Fleet.h"
 #include "Debug.h"
