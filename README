@@ -1,5 +1,6 @@
 
-SHIPPING SIMULATOR:
+SHIPPING SIMULATOR
+
 An application simulating a shipping network using Object-Oriented Software principles in C++. The Simulator allows a user to set up a network using 'Location' and 'Segment' entities, and simulate the network's behaviour, as 'Shipments' are injected into and transported around the network.
 The emphasis is on the role of programming conventions, style, restrictions, and design patterns to leverage object-oriented programming for programming-in-the-large.
 
@@ -12,14 +13,6 @@ cmake -DCMAKE_BUILD_TYPE=RELEASE -DCMAKE_INSTALL_PREFIX=.. ..
 make install
 
 This will create a lib folder for libraries in the project root and a bin folder for the executables test scenarios.
-
-SHARED VS STATIC LIBRARIES
-
-The library was developed as a SHARED library and to be linked as one, in other words point to a .so file. For the assignment, we used STATIC libraries (as being mentioned in the assignment description). Please note that CMake makes both shared .so files and static .a files.
-
-SINGLETON DESIGN PATTERN
-
-Even though we proposed a singleton design pattern in the provided milestone, we ended up not using singletons (even though there can only be one Conn, Fleet and Stats). The reason we changed from Singleton Design Pattern was because it might be a wanted feature to in the future to have different 'Shipping::Engines' active at the same time, all with a unique Conn, Stats and Flee (For example, different parts of the world).
 
 CLASS STRUCTURE AND HEIRARCHY
 
