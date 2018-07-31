@@ -1,9 +1,3 @@
-/*
- * Engine.cpp
- *
- *  Created on: Nov 4, 2011
- *      Author: per
- */
 
 #include "Engine.h"
 #include "Debug.h"
