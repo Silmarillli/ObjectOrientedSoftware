@@ -1,5 +1,7 @@
 
 SHIPPING SIMULATOR:
+An application simulating a shipping network using Object-Oriented Software principles in C++. The Simulator allows a user to set up a network using 'Location' and 'Segment' entities, and simulate the network's behaviour, as 'Shipments' are injected into and transported around the network.
+The emphasis is on the role of programming conventions, style, restrictions, and design patterns to leverage object-oriented programming for programming-in-the-large.
 
 
 BUILD LIBRARIES
