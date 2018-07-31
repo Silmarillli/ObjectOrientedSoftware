@@ -1,9 +1,3 @@
-/*
- * Conn.cpp
- *
- *  Created on: Nov 4, 2011
- *      Author: per
- */
 
 #include "Conn.h"
 #include "Debug.h"
