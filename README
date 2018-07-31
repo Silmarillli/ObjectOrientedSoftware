@@ -1,17 +1,6 @@
-user: perk
-user: vsand
-		  ______      _______. ___    _  _      ___        ___      
-		 /      |    /       ||__ \  | || |    / _ \      /   \     
-		|  ,----'   |   (----`   ) | | || |_  | (_) |    /  ^  \    
-		|  |         \   \      / /  |__   _|  \__, |   /  /_\  \   
-		|  `----..----)   |    / /_     | |      / /   /  _____  \  
-		 \______||_______/    |____|    |_|     /_/   /__/     \__\ 
-		 
-					 ASSIGNMENT 2 - SHIPPING SIMULATOR
-					   Per Karlsson & Victor Sand
-			    git://github.com/victorsand/CS249_asgn2.git
-			  
-This document aims to describe the main structure of our library, as well as some key design desicions made.
+
+SHIPPING SIMULATOR:
+
 
 BUILD LIBRARIES
 
