@@ -1,0 +1,2 @@
+/usr/bin/ar qc libengine.a  CMakeFiles/engine.dir/source/Location.cpp.o CMakeFiles/engine.dir/source/Segment.cpp.o CMakeFiles/engine.dir/source/Path.cpp.o CMakeFiles/engine.dir/source/EntityManager.cpp.o CMakeFiles/engine.dir/source/Engine.cpp.o CMakeFiles/engine.dir/source/Fleet.cpp.o CMakeFiles/engine.dir/source/Stats.cpp.o CMakeFiles/engine.dir/source/Conn.cpp.o
+/usr/bin/ranlib libengine.a

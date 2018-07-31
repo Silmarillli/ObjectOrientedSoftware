@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../code/fwk/Debug.h
+iostream
+-
+
+../code/fwk/Ptr.h
+
+../code/fwk/PtrInterface.h
+
+../code/test/../rep/include/Instance.h
+string
+-
+Ptr.h
+../code/test/../rep/include/Ptr.h
+PtrInterface.h
+../code/test/../rep/include/PtrInterface.h
+
+/mnt/c/Users/Silmarilli/Documents/qtcreator/CS249_asgn2-master/code/test/test1.cpp
+string
+-
+ostream
+-
+iostream
+-
+string
+-
+Debug.h
+/mnt/c/Users/Silmarilli/Documents/qtcreator/CS249_asgn2-master/code/test/Debug.h
+Instance.h
+/mnt/c/Users/Silmarilli/Documents/qtcreator/CS249_asgn2-master/code/test/Instance.h
+

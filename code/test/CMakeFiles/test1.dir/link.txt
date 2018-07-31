@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test1.dir/test1.cpp.o  -o test1  -LLIB_PATH -rdynamic ../rep/librep.a ../engine/libengine.a -Wl,-rpath,LIB_PATH: 
